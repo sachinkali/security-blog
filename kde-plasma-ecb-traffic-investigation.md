@@ -1,6 +1,6 @@
 # Baseline Network Analysis: Tracing Unexpected KDE Plasma Connections to the European Central Bank
 
-**Author:** Sachin Kali
+**Author:** Sachin
 **Date:** June 2026
 **Category:** Linux Security | Network Analysis | Threat Hunting
 **Difficulty:** Beginner-Friendly
