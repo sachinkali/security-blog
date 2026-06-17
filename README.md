@@ -27,3 +27,21 @@ Topics covered:
 - Metasploit
 - curl
 - netcat
+
+---
+
+### Baseline Network Analysis: Tracing Unexpected KDE Plasma Connections to the European Central Bank
+
+An investigation into unexpected outbound HTTPS connections discovered during baseline network monitoring of a fresh Kali Linux installation.
+
+Topics covered:
+
+* Network traffic analysis
+* Process attribution using ss, netstat, and lsof
+* DNS and IP infrastructure investigation
+* KDE Plasma internals
+* Root cause analysis
+* Security lab baseline validation
+
+📄 Read the writeup: [kde-plasma-ecb-traffic-investigation.md](kde-plasma-ecb-traffic-investigation.md)
+
